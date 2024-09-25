@@ -2,7 +2,7 @@
 👀 I’m interested in Electrical Engineering, Python programming, and data science.
 🌱 I’m currently learning Python programming and Django framework to build websites.
 💞️ I’m looking to collaborate on Python projects and any innovative engineering projects.
-📫 How to reach me: 224135027@stud.cut.ac.za or 0735656000.
+📫 How to reach me: mrtmahloko@gmail.com or 0735656000.
 😄 Pronouns: He/Him
 
 <!---
