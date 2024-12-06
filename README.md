@@ -1,5 +1,6 @@
 👋 Hi, I’m Thapelo Mahloko
-👀 I’m interested in Electrical Engineering, Python programming, and data science.
+📚 I'm studying Electrical Engineering 
+👀 I’m interested in Python programming, data science and IoT.
 🌱 I’m currently learning Python programming and Django framework to build websites.
 💞️ I’m looking to collaborate on Python projects and any innovative engineering projects.
 📫 How to reach me: mrtmahloko@gmail.com or 0735656000.
