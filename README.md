@@ -1,10 +1,10 @@
 👋 Hi, I’m Thapelo Mahloko
-📚 I'm studying Electrical Engineering 
+📚 I'm currently studying Electrical Engineering 
 👀 I’m interested in Python programming, data science and IoT.
 🌱 I’m currently learning Python programming and Django framework to build websites.
 💞️ I’m looking to collaborate on Python projects and any innovative engineering projects.
 📫 How to reach me: mrtmahloko@gmail.com or 0735656000.
-😄 Pronouns: He/Him
+
 
 <!---
 ThapeloMahloko/ThapeloMahloko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
